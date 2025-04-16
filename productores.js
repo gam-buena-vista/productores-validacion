@@ -277,13 +277,49 @@ const productores = {
       },
       "BV-D6-047": {
         "nombre": "BISMAR IRAÑA",
-        "ci": "PASTOR SC",
+        "ci": "",
+        "distrito": "Distrito 6 - San Juan De Saguayo",
+        "estado": "Afiliado válido"
+      },
+     "BV-D6-048": {
+        "nombre": "SERAPIO SULLCA",
+        "ci": "",
+        "distrito": "Distrito 6 - San Juan De Saguayo",
+        "estado": "Afiliado válido"
+      },
+     "BV-D6-049": {
+        "nombre": "PEDRO CONDORI",
+        "ci": "",
         "distrito": "Distrito 6 - San Juan De Saguayo",
         "estado": "Afiliado válido"
       },
       "BV-D6-050": {
         "nombre": "WILBER IRAÑA",
-        "ci": "PASTOR SC",
+        "ci": "",
+        "distrito": "Distrito 6 - San Juan De Saguayo",
+        "estado": "Afiliado válido"
+      },
+      "BV-D6-051": {
+        "nombre": "JULIAN OLIVERA",
+        "ci": "",
+        "distrito": "Distrito 6 - San Juan De Saguayo",
+        "estado": "Afiliado válido"
+      },
+      "BV-D6-052": {
+        "nombre": "ANGEL OLIVERA",
+        "ci": "",
+        "distrito": "Distrito 6 - San Juan De Saguayo",
+        "estado": "Afiliado válido"
+      },  
+        "BV-D6-053": {
+        "nombre": "MACARIO MESA",
+        "ci": "",
+        "distrito": "Distrito 6 - San Juan De Saguayo",
+        "estado": "Afiliado válido"
+      },
+      "BV-D6-054": {
+        "nombre": "VECENTA ALBA",
+        "ci": "",
         "distrito": "Distrito 6 - San Juan De Saguayo",
         "estado": "Afiliado válido"
       },
