@@ -5,15 +5,14 @@
   padding: 0;
 }
 
-/* Estilos generales */
+/* Estilo base del body */
 body {
   font-family: sans-serif;
-  padding: 1.5em;
   background: #f5f5f5;
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
+  align-items: center;
+  padding: 2em 1em;
   min-height: 100vh;
 }
 
@@ -24,49 +23,71 @@ body {
   border-radius: 12px;
   max-width: 500px;
   width: 100%;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
   text-align: center;
 }
 
 /* Logo */
 header {
-  margin-bottom: 1em;
+  margin-bottom: 1.5em;
 }
 .logo {
-  width: 500px;
+  width: 120px;
   height: auto;
   display: block;
   margin: 0 auto;
 }
 
-/* Textos */
+/* Textos principales */
 h2 {
-  font-size: 1.8em;
-  margin-bottom: 0.5em;
+  font-size: 2em;
+  margin-bottom: 1em;
+  color: #2b2b2b;
 }
 p {
-  font-size: 1.1em;
-  margin: 0.5em 0;
+  font-size: 1.3em;
+  margin: 0.8em 0;
+  color: #333;
 }
 strong {
   font-weight: bold;
 }
 p[style] {
+  color: green !important;
   font-weight: bold;
-  color: green;
+  font-size: 1.4em;
 }
 
 /* Mensaje de error */
 .error {
   color: red;
   font-weight: bold;
-  font-size: 1.2em;
+  font-size: 1.5em;
 }
 
-/* Responsividad */
+/* Dispositivos medianos */
 @media (max-width: 768px) {
   .card {
-    padding: 1.5em;
+    padding: 1.8em;
+  }
+
+  h2 {
+    font-size: 1.8em;
+  }
+
+  p {
+    font-size: 1.2em;
+  }
+
+  .logo {
+    width: 100px;
+  }
+}
+
+/* Celulares */
+@media (max-width: 480px) {
+  .card {
+    padding: 1.5em 1em;
   }
 
   h2 {
@@ -74,24 +95,14 @@ p[style] {
   }
 
   p {
-    font-size: 1em;
-  }
-}
-
-@media (max-width: 480px) {
-  .card {
-    padding: 1em;
-  }
-
-  h2 {
-    font-size: 1.4em;
-  }
-
-  p {
-    font-size: 0.95em;
+    font-size: 1.15em;
   }
 
   .logo {
-    width: 70px;
+    width: 90px;
+  }
+
+  p[style] {
+    font-size: 1.3em;
   }
 }
