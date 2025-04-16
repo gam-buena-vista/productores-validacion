@@ -42,7 +42,7 @@ const productores = {
       estado: "Afiliado válido"
     },
     "BV-D6-008": {
-      nombre: "LICEO AMURRIO COCA",
+      nombre: "ELICEO AMURRIO COCA",
       ci: "9004092 SC",
       distrito: "Distrito 6 - Carmen Surutu",
       estado: "Afiliado válido"
