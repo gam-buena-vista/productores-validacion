@@ -2,35 +2,44 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Validación de Productor</title>
-  <link rel="stylesheet" href="estilos.css"> <!-- Vinculando el archivo estilos.css -->
+  <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-  <!-- Agregamos el logo en la parte superior -->
+
+  <!-- Logo institucional -->
   <header>
-    <img src="imagen/logogamnegro.png" alt="Logo de la Empresa" class="logo">
+    <img src="imagen/logogamnegro.png" alt="Logo del Gobierno Autónomo Municipal de Buena Vista" class="logo">
   </header>
 
-  <div class="card" id="contenido">
+  <!-- Contenido principal -->
+  <main class="card" id="contenido">
     <h2>Verificando credencial...</h2>
-  </div>
+  </main>
 
-  <script src="productores.js"></script> <!-- Vinculando el archivo productores.js -->
+  <!-- Archivos JavaScript -->
+  <script src="productores.js"></script>
   <script>
     const params = new URLSearchParams(window.location.search);
     const id = params.get("id");
     const cont = document.getElementById("contenido");
 
-    if (id && productores[id]) {
+    if (typeof productores !== 'undefined' && id && productores[id]) {
       const p = productores[id];
       cont.innerHTML = `
         <h2>Credencial válida ✅</h2>
-        <p><strong>Nombre:</strong> ${p.nombre}</p>
-        <p><strong>CI:</strong> ${p.ci}</p>
-        <p><strong>Distrito:</strong> ${p.distrito}</p>
-        <p><strong>Estado:</strong> ${p.estado}</p>
-        <p style="color: green; font-weight: bold;">Código: ${id}</p>
+        <p><strong>Nombre:</strong> <span id="nombre"></span></p>
+        <p><strong>CI:</strong> <span id="ci"></span></p>
+        <p><strong>Distrito:</strong> <span id="distrito"></span></p>
+        <p><strong>Estado:</strong> <span id="estado"></span></p>
+        <p style="color: green; font-weight: bold;">Código: <span id="codigo"></span></p>
       `;
+      document.getElementById("nombre").textContent = p.nombre;
+      document.getElementById("ci").textContent = p.ci;
+      document.getElementById("distrito").textContent = p.distrito;
+      document.getElementById("estado").textContent = p.estado;
+      document.getElementById("codigo").textContent = id;
     } else {
       cont.innerHTML = `
         <h2 class="error">❌ Credencial no válida</h2>
@@ -38,5 +47,6 @@
       `;
     }
   </script>
+
 </body>
 </html>
