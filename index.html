@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -29,28 +28,8 @@
     <h2>Verificando credencial...</h2>
   </div>
 
+  <script src="productores.js"></script> <!-- Vinculando el archivo productores.js -->
   <script>
-    const productores = {
-      "BV-D6-045": {
-        nombre: "Ariel Mendoza Cabrera",
-        ci: "6279138 SC",
-        distrito: "Distrito 5 - Caranda",
-        estado: "Afiliado válido"
-      },
-      "BV-D5-001": {
-        nombre: "Carlos Ríos",
-        ci: "87654321 SC",
-        distrito: "Distrito 5 - Las Mercedes",
-        estado: "Afiliado válido"
-      },
-      "BV-D6-046": {
-        nombre: "María López",
-        ci: "23456789 SC",
-        distrito: "Distrito 6 - Arboleda",
-        estado: "Afiliado válido"
-      }
-    };
-
     const params = new URLSearchParams(window.location.search);
     const id = params.get("id");
     const cont = document.getElementById("contenido");
