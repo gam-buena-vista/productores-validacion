@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Validación de Productor</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2em;
+      background: #f5f5f5;
+    }
+    .card {
+      background: white;
+      padding: 1.5em;
+      border-radius: 8px;
+      max-width: 500px;
+      margin: auto;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+    .error {
+      color: red;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="card" id="contenido">
+    <h2>Verificando credencial...</h2>
+  </div>
+
+  <script>
+    const productores = {
+      "BV-D6-045": {
+        nombre: "Juana Pérez",
+        ci: "12345678 SC",
+        distrito: "Distrito 6 - Arboleda",
+        estado: "Afiliado válido"
+      },
+      "BV-D5-001": {
+        nombre: "Carlos Ríos",
+        ci: "87654321 SC",
+        distrito: "Distrito 5 - Las Mercedes",
+        estado: "Afiliado válido"
+      },
+      "BV-D6-046": {
+        nombre: "María López",
+        ci: "23456789 SC",
+        distrito: "Distrito 6 - Arboleda",
+        estado: "Afiliado válido"
+      }
+    };
+
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("id");
+    const cont = document.getElementById("contenido");
+
+    if (id && productores[id]) {
+      const p = productores[id];
+      cont.innerHTML = `
+        <h2>Credencial válida ✅</h2>
+        <p><strong>Nombre:</strong> ${p.nombre}</p>
+        <p><strong>CI:</strong> ${p.ci}</p>
+        <p><strong>Distrito:</strong> ${p.distrito}</p>
+        <p><strong>Estado:</strong> ${p.estado}</p>
+        <p style="color: green; font-weight: bold;">Código: ${id}</p>
+      `;
+    } else {
+      cont.innerHTML = `
+        <h2 class="error">❌ Credencial no válida</h2>
+        <p>No se encontró información para el código ingresado.</p>
+      `;
+    }
+  </script>
+</body>
+</html>
