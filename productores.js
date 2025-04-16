@@ -1,5 +1,4 @@
 const productores = {
-     // DISTRITO 6 CARMEN SURUTU
     "BV-D6-001": {
       nombre: "TEODORO OLIVERA APAZA",
       ci: "2986416 SC",
@@ -404,7 +403,6 @@ const productores = {
       },   
     
     // DISTRITO 5 ARBOLEDA
-    {
   "BV-D5-001": {
     "nombre": "EDITH HERRERA DE VARGAS",
     "ci": "1593770",
