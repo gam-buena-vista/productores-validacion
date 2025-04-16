@@ -32,7 +32,7 @@ header {
   margin-bottom: 1.5em;
 }
 .logo {
-  width: 120px;
+  width: 400px;
   height: auto;
   display: block;
   margin: 0 auto;
@@ -80,7 +80,7 @@ p[style] {
   }
 
   .logo {
-    width: 100px;
+    width: 200px;
   }
 }
 
@@ -99,7 +99,7 @@ p[style] {
   }
 
   .logo {
-    width: 90px;
+    width: 150px;
   }
 
   p[style] {
