@@ -428,6 +428,9 @@ const productores = {
 "BV-D4-141": {nombre: "DENICE BURGOS SAUCEDO", ci: "8163481", Asociación: "SAN MIGUEL RINCON", estado: "Afiliado válido"},
 "BV-D2-081": {nombre: "AUGUSTO PRADO VALVERDE", ci: "4570813", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D1-023": {nombre: "ANDRES ZEBALLOS BAZAN", ci: "4673496", Asociación: "SANTA BARBARA DE LOS MANZANOS", estado: "Afiliado válido"},
+"BV-D2-082": {nombre: "JOSE ENRIQUE SERAPIO ", ci: "7809967", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D1-024": {nombre: "MANUEL ALVAREZ HURTADO", ci: "5373898", Asociación: "CANDELARIA", estado: "Afiliado válido"},
+"BV-D6-075": {nombre: "EXALTACION GARCIA VASQUEZ", ci: "3948724", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 
 
 
