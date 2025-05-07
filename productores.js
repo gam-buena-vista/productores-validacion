@@ -434,6 +434,7 @@ const productores = {
 "BV-D1-025": {nombre: "BALDO VARGAS APARICIO", ci: "13560523", Asociación: "VIRGEN DEL CARMEN", estado: "Afiliado válido"},
 "BV-D2-083": {nombre: "SILVIA LOPEZ CRUZ", ci: "5350738", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D2-084": {nombre: "ELISEO FERNANDEZ FLORES", ci: "5412276", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D1-026": {nombre: "TATIANA CHARUPA CHORE", ci: "9823583", Asociación: "SANTA BARBARA DE LOS MANZANOS", estado: "Afiliado válido"},
 
 
 
