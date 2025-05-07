@@ -431,6 +431,7 @@ const productores = {
 "BV-D2-082": {nombre: "JOSE ENRIQUE SERAPIO ", ci: "7809967", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D1-024": {nombre: "MANUEL ALVAREZ HURTADO", ci: "5373898", Asociación: "CANDELARIA", estado: "Afiliado válido"},
 "BV-D6-075": {nombre: "EXALTACION GARCIA VASQUEZ", ci: "3948724", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D1-025": {nombre: "BALDO VARGAS APARICIO", ci: "13560523", Asociación: "VIRGEN DEL CARMEN", estado: "Afiliado válido"},
 
 
 
