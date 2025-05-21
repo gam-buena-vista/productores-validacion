@@ -453,6 +453,7 @@ const productores = {
 "BV-D1-030": {nombre: "TEREZA MIRANDA DE PIMENTEL ", ci: "3665888", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
 "BV-D1-031": {nombre: "GERONIMO MIRANDA OCAMPO", ci: "1959361", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
 "BV-D5-048": {nombre: "PELAYO DAZA GARCIA", ci: "3219777", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
+"BV-D6-079": {nombre: "INES IPORRE GONZALES", ci: "5835150", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
 
 
 
