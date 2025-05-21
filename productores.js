@@ -456,6 +456,8 @@ const productores = {
 "BV-D6-079": {nombre: "INES IPORRE GONZALES", ci: "5835150", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
 "BV-D5-049": {nombre: "JUAN GUTIERREZ PEÑA", ci: "16969324", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 "BV-D5-050": {nombre: "FIDEL HURTADO ", ci: "4670309", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
+"BV-D2-088": {nombre: "LUCIA CRUZ LOPEZ", ci: "8933508", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D5-051": {nombre: "MARIA TERAN BALLESTEROS", ci: "6394012", Asociación: "EL PALMAR", estado: "Afiliado válido"},
 
 
 
