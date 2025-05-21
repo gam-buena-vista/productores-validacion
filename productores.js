@@ -446,6 +446,13 @@ const productores = {
 "BV-D2-087": {nombre: "FRANZ ALBERTO OCAMPO ROMERO", ci: "12446992", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D6-079": {nombre: "PATRICIA LUNA DE JUCUMARI ", ci: "4672867", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 "BV-D5-047": {nombre: "JOSE LUIS ANTELO ESCALANTE", ci: "3825026", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
+"BV-D3-068": {nombre: "SEFERINO ABRIGO RODRIGUEZ", ci: "6263239", Asociación: "ISAMA II", estado: "Afiliado válido"},
+"BV-D1-027": {nombre: "ARIEL IGNACIO PIMENTEL MIRANDA", ci: "7803196", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
+"BV-D1-028": {nombre: "TOMAS MIRANDA OCAMPO", ci: "1940041", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
+"BV-D1-029": {nombre: "ROBERT SAGREDO GARCIA", ci: "3881755", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
+"BV-D1-030": {nombre: "TEREZA MIRANDA DE PIMENTEL ", ci: "3665888", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
+"BV-D1-031": {nombre: "GERONIMO MIRANDA OCAMPO", ci: "1959361", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
+"BV-D5-048": {nombre: "PELAYO DAZA GARCIA", ci: "3219777", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 
 
 
