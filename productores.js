@@ -458,6 +458,8 @@ const productores = {
 "BV-D5-050": {nombre: "FIDEL HURTADO ", ci: "4670309", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 "BV-D2-088": {nombre: "LUCIA CRUZ LOPEZ", ci: "8933508", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D5-051": {nombre: "MARIA TERAN BALLESTEROS", ci: "6394012", Asociación: "EL PALMAR", estado: "Afiliado válido"},
+"BV-D2-089": {nombre: "SIXTO ROJAS MENECES", ci: "870132", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D6-081": {nombre: "MARCOS CONDORI HUARACHI", ci: "1946164", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 
 
 
