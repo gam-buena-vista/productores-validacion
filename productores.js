@@ -460,6 +460,16 @@ const productores = {
 "BV-D5-051": {nombre: "MARIA TERAN BALLESTEROS", ci: "6394012", Asociación: "EL PALMAR", estado: "Afiliado válido"},
 "BV-D2-089": {nombre: "SIXTO ROJAS MENECES", ci: "870132", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D6-081": {nombre: "MARCOS CONDORI HUARACHI", ci: "1946164", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D1-032": {nombre: "NATIVIDAD SALVATIERRA Vda de SALVATIERRA", ci: "3204610", Asociación: "SANTA BARBARA DE LOS MANZANOS", estado: "Afiliado válido"},
+"BV-D3-069": {nombre: "EDUARDO CHOQUE MUÑOZ", ci: "3222039", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D3-070": {nombre: "MARINA  TOCO RAMOS", ci: "776468", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D2-090": {nombre: "JUAQUIN VILLCA PAREDEZ", ci: "4484860", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D2-091": {nombre: "EUGENIA CACERES HURTADO", ci: "8116672", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D2-092": {nombre: "DIONICIO VACA SALVATIERRA", ci: "6240482", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D2-093": {nombre: "RICARDO CRUZ SEGOVIA", ci: "7697203", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D2-094": {nombre: "MIJAEL AGUILAR LUCAS", ci: "7854761", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D2-095": {nombre: "PAULINA CRUZ VILAJA", ci: "9644470", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D6-082": {nombre: "PABLO ALMENDRAS ARAMAYO", ci: "", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 
 
 
