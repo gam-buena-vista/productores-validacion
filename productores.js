@@ -470,6 +470,7 @@ const productores = {
 "BV-D2-094": {nombre: "MIJAEL AGUILAR LUCAS", ci: "7854761", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D2-095": {nombre: "PAULINA CRUZ VILAJA", ci: "9644470", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D6-082": {nombre: "PABLO ALMENDRAS ARAMAYO", ci: "", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D1-033": {nombre: "FAUSTO BAZAN LEIGUES", ci: "8106744", Asociación: "PARAISO SEREVOQUI", estado: "Afiliado válido"},
 
 
 
