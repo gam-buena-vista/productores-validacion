@@ -472,6 +472,7 @@ const productores = {
 "BV-D6-082": {nombre: "PABLO ALMENDRAS ARAMAYO", ci: "", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 "BV-D1-033": {nombre: "FAUSTO BAZAN LEIGUES", ci: "8106744", Asociación: "PARAISO SEREVOQUI", estado: "Afiliado válido"},
 "BV-D2-096": {nombre: "MONICA VARGAS SALAZAR", ci: "13742799", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
+"BV-D5-052": {nombre: "VICTOR VARGAS VACA", ci: "8957765", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 
 
 
