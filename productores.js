@@ -138,7 +138,7 @@ const productores = {
 "BV-D2-040": {nombre: "ESTEBAN PUMA CONDORI", ci: "3238650", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-041": {nombre: "ROLY PUMA QUISPE", ci: "9765396", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-042": {nombre: "ROBERTO LUCAS ", ci: "6321189", Asociación: "POZA AZUL", estado: "Afiliado válido"},
-"BV-D2-043": {nombre: "ERNESTO MAMANI ", ci: "", Asociación: "POZA AZUL", estado: "Afiliado válido"},
+"BV-D2-043": {nombre: "ERNESTO MAMANI CHOQUE", ci: "3229660", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-044": {nombre: "ENRIQUE GONZALES PUMA", ci: "3577235", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-045": {nombre: "DEISI  GERÓNIMO ", ci: "9046212", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-046": {nombre: "GERMÁN PUMA TOCO", ci: "8954452", Asociación: "POZA AZUL", estado: "Afiliado válido"},
@@ -453,7 +453,7 @@ const productores = {
 "BV-D1-030": {nombre: "TEREZA MIRANDA DE PIMENTEL ", ci: "3665888", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
 "BV-D1-031": {nombre: "GERONIMO MIRANDA OCAMPO", ci: "1959361", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
 "BV-D5-048": {nombre: "PELAYO DAZA GARCIA", ci: "3219777", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
-"BV-D6-079": {nombre: "INES IPORRE GONZALES", ci: "5835150", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
+"BV-D6-080": {nombre: "INES IPORRE GONZALES", ci: "5835150", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
 "BV-D5-049": {nombre: "JUAN GUTIERREZ PEÑA", ci: "16969324", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 "BV-D5-050": {nombre: "FIDEL HURTADO ", ci: "4670309", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 "BV-D2-088": {nombre: "LUCIA CRUZ LOPEZ", ci: "8933508", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
@@ -469,10 +469,10 @@ const productores = {
 "BV-D2-093": {nombre: "RICARDO CRUZ SEGOVIA", ci: "7697203", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D2-094": {nombre: "MIJAEL AGUILAR LUCAS", ci: "7854761", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D2-095": {nombre: "PAULINA CRUZ VILAJA", ci: "9644470", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
-"BV-D6-082": {nombre: "PABLO ALMENDRAS ARAMAYO", ci: "", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
-"BV-D1-033": {nombre: "FAUSTO BAZAN LEIGUES", ci: "8106744", Asociación: "PARAISO SEREVOQUI", estado: "Afiliado válido"},
+"BV-D6-082": {nombre: "PABLO ALMENDRAS ARAMAYO", ci: "3948862", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 "BV-D2-096": {nombre: "MONICA VARGAS SALAZAR", ci: "13742799", Asociación: "HUAYTÚ", estado: "Afiliado válido"},
 "BV-D5-052": {nombre: "VICTOR VARGAS VACA", ci: "8957765", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
+
 
 
 
