@@ -474,6 +474,17 @@ const productores = {
 "BV-D5-052": {nombre: "VICTOR VARGAS VACA", ci: "8957765", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 "BV-D1-033": {nombre: "JUAN JOSE VAZQUEZ DESCARPONTRIEZ", ci: "3225809", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
 "BV-D1-034": {nombre: "LUIS FERNANDO ARAUZ ANTELO", ci: "3937585", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
+"BV-D1-035": {nombre: "ANGEL ARAUZ MERCADO", ci: "1980076", Asociación: "SANTA BARBARA DE LOS MANZANOS", estado: "Afiliado válido"},
+"BV-D6-083": {nombre: "ALBINA PUMA URQUISO", ci: "7688529", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D6-084": {nombre: "AIDA SEJAS LOPEZ", ci: "8861714", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D1-036": {nombre: "WALTER DIEGO VIADOR GODOY ALVIS", ci: "5859674", Asociación: "VIRGEN DEL CARMEN", estado: "Afiliado válido"},
+"BV-D1-037": {nombre: "FAUSTO BAZAN LEIGUEZ", ci: "8106744", Asociación: "PARAISO SEREVOQUI", estado: "Afiliado válido"},
+"BV-D5-053": {nombre: "MIGUEL SEOANE HUSTADO", ci: "6235745", Asociación: "PALACIOS", estado: "Afiliado válido"},
+"BV-D5-054": {nombre: "WALTER CARREÑO SANDOVAL", ci: "7774737", Asociación: "PALACIOS", estado: "Afiliado válido"},
+"BV-D5-055": {nombre: "DEOMAR CARREÑO SANDOVAL", ci: "7774737", Asociación: "PALACIOS", estado: "Afiliado válido"},
+"BV-D5-056": {nombre: "GUMERCINDO ARDAYA MENACHO", ci: "3181657", Asociación: "PALACIOS", estado: "Afiliado válido"},
+"BV-D5-057": {nombre: "SANDRA ORTIZ VACA", ci: "7803593", Asociación: "PALACIOS", estado: "Afiliado válido"},
+"BV-D5-058": {nombre: "CARMELO MERCADO VACA", ci: "8863178", Asociación: "PALACIOS", estado: "Afiliado válido"},
 
 
 
