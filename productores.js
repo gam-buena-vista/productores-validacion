@@ -528,6 +528,10 @@ const productores = {
 "BV-D5-056": {nombre: "GUMERCINDO ARDAYA MENACHO", ci: "3181657", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 "BV-D5-057": {nombre: "SANDRA ORTIZ VACA", ci: "7803593", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 "BV-D5-058": {nombre: "CARMELO MERCADO VACA", ci: "8863178", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
+"BV-D2-119": {nombre: "IRENIA CARI SANTOS", ci: "1940570", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D4-142": {nombre: "MARCELINO RIVERO GARCIA", ci: "4549815", Asociación: "SAN MIGUEL RINCON", estado: "Afiliado válido"},
+"BV-D2-120": {nombre: "FELIPE CARREÑO VACA", ci: "4680437", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D1-056": {nombre: "MAURICIO FERNANDEZ MORENO", ci: "7809783", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
 
 
 
