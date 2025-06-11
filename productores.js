@@ -532,6 +532,19 @@ const productores = {
 "BV-D4-142": {nombre: "MARCELINO RIVERO GARCIA", ci: "4549815", Asociación: "SAN MIGUEL RINCON", estado: "Afiliado válido"},
 "BV-D2-120": {nombre: "FELIPE CARREÑO VACA", ci: "4680437", Asociación: "HUAYTU", estado: "Afiliado válido"},
 "BV-D1-056": {nombre: "MAURICIO FERNANDEZ MORENO", ci: "7809783", Asociación: "POTRERO SAN RAFAEL", estado: "Afiliado válido"},
+"BV-D6-085": {nombre: "AGAPITO ALMENDRAS OLARTE", ci: "8877998", Asociación: "SAN PEDRO PALILLO", estado: "Afiliado válido"},
+"BV-D6-086": {nombre: "VICTORIA SULLCA PUMA", ci: "13874427", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
+"BV-D6-087": {nombre: "JUANI JUCUMARI PUMA", ci: "7803755", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
+"BV-D5-059": {nombre: "ZACARIAS NOGALES GARCIA", ci: "13560435", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-060": {nombre: "MEDARDO CESPEDES SAUCEDO", ci: "1940263", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-061": {nombre: "FERMY NOGALES GARCIA", ci: "9805486", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-062": {nombre: "ELIO NOGALES GARCIA", ci: "9805481", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-063": {nombre: "SIMON QUIROGA CALIZAYA", ci: "3842578", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-064": {nombre: "LEOCADIO QUIROGA GOMEZ", ci: "1545113", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-065": {nombre: "SHIRLEY AGUIRRE SALVATIERRA", ci: "4604083", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-066": {nombre: "IGNACIO CESPEDES ALVAREZ", ci: "4676804", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-067": {nombre: "SHEDERID OFIR AGUIRRE SALVATIERRA", ci: "5384162", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-068": {nombre: "GLORIA SIYED ROJAS", ci: "7693518", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
 
 
 
