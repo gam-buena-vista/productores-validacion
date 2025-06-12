@@ -545,6 +545,9 @@ const productores = {
 "BV-D5-066": {nombre: "IGNACIO CESPEDES ALVAREZ", ci: "4676804", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
 "BV-D5-067": {nombre: "SHEDERID OFIR AGUIRRE SALVATIERRA", ci: "5384162", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
 "BV-D5-068": {nombre: "GLORIA SIYED ROJAS", ci: "7693518", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D5-069": {nombre: "ERNESTO PARADA MOYE", ci: "13743630", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
+"BV-D5-070": {nombre: "CINTHYA MARIBEL ACUÑA HUARACHI", ci: "7665014", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
+"BV-D5-071": {nombre: "HERNANDO NICOLAS GARCIA TAPEOSI", ci: "7859457", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
 
 
 
