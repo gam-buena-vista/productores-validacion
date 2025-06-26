@@ -132,7 +132,7 @@ const productores = {
 "BV-D2-034": {nombre: "ANTONIO CONDORI ", ci: "4678664", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-035": {nombre: "REINALDO CONDORI ", ci: "8970314", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-036": {nombre: "GREGORIO NINA ", ci: "5420844", Asociación: "POZA AZUL", estado: "Afiliado válido"},
-"BV-D2-037": {nombre: "MARCIAL COLQUE ", ci: "6478665", Asociación: "POZA AZUL", estado: "Afiliado válido"},
+"BV-D2-037": {nombre: "MARCIAL COLQUE CONDORI", ci: "4678665", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-038": {nombre: "EMILIO  FLORES ", ci: "1368032", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-039": {nombre: "LUCIO  RAMIREZ ", ci: "10514216", Asociación: "POZA AZUL", estado: "Afiliado válido"},
 "BV-D2-040": {nombre: "ESTEBAN PUMA CONDORI", ci: "3238650", Asociación: "POZA AZUL", estado: "Afiliado válido"},
@@ -361,7 +361,7 @@ const productores = {
 "BV-D4-093": {nombre: "ADRIAN MENDEZ MENDOZA", ci: "7811521", Asociación: "CARANDA", estado: "Afiliado válido"},
 "BV-D4-094": {nombre: "TEOFILO CASERES RODRIGUEZ", ci: "7762716", Asociación: "CARANDA", estado: "Afiliado válido"},
 "BV-D4-095": {nombre: "ISIDRO SAAVEDRA CUVA", ci: "5346344", Asociación: "CARANDA", estado: "Afiliado válido"},
-"BV-D4-096": {nombre: "JHERY ANGEL SAAVEDRA GUERRERO", ci: "4647526", Asociación: "CARANDA", estado: "Afiliado válido"},
+"BV-D4-096": {nombre: "JHERY ANGEL SAAVEDRA MURILLO", ci: "13853852", Asociación: "CARANDA", estado: "Afiliado válido"},
 "BV-D4-097": {nombre: "MARIO VALLEJOS VALDIVIESO", ci: "7674185", Asociación: "CARANDA", estado: "Afiliado válido"},
 "BV-D4-098": {nombre: "VIRGILIO JIMENEZ ", ci: "6240322", Asociación: "CARANDA", estado: "Afiliado válido"},
 "BV-D4-099": {nombre: "VITALIANA HERBAS DE OCAMPO ", ci: "7675584", Asociación: "CARANDA", estado: "Afiliado válido"},
@@ -578,6 +578,7 @@ const productores = {
 "BV-D2-128": {nombre: "HERNAN MERCADO ROCA", ci: "2972611", Asociación: "HUAYTU", estado: "Afiliado válido"},
 "BV-D2-129": {nombre: "ANDREA MENDOZA MANRRIQUE", ci: "7798039", Asociación: "PRIMERA RECOMPENSA", estado: "Afiliado válido"},
 "BV-D2-130": {nombre: "EMILIANO FLORES SALAZAR", ci: "1368032", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D3-076": {nombre: "DIONICIO RODRIGUEZ ARAOZ", ci: "4590287", Asociación: "ISAMA II", estado: "Afiliado válido"},
 
 
 
