@@ -579,6 +579,19 @@ const productores = {
 "BV-D2-129": {nombre: "ANDREA MENDOZA MANRRIQUE", ci: "7798039", Asociación: "PRIMERA RECOMPENSA", estado: "Afiliado válido"},
 "BV-D2-130": {nombre: "EMILIANO FLORES SALAZAR", ci: "1368032", Asociación: "HUAYTU", estado: "Afiliado válido"},
 "BV-D3-076": {nombre: "DIONICIO RODRIGUEZ ARAOZ", ci: "4590287", Asociación: "ISAMA II", estado: "Afiliado válido"},
+"BV-D6-096": {nombre: "BENJAMIN VACA MERCADO", ci: "2934566", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
+"BV-D5-073": {nombre: "GUALBERTO RIVERA OCHOA", ci: "3214952", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D6-097": {nombre: "PEDRO VEDIA SANDOVAL", ci: "5390460", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-098": {nombre: "JHONATAN NINA MAMANI", ci: "9765364", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-099": {nombre: "NELY TICONA VEGA", ci: "6874905", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-100": {nombre: "VIRGINIA VEDIA FRANCO", ci: "9028249", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-101": {nombre: "AMBROCIO FRANCO FLORES", ci: "7680692", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-102": {nombre: "MARTIN BALTAZAR SALVATIERRA", ci: "5189537", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-103": {nombre: "JULIAN FRANCO CORDOVA", ci: "8140084", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-104": {nombre: "NICOLAS MIRANDA VENTURA", ci: "9805316", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-105": {nombre: "ROLY JUAN RAMOS RIOS", ci: "7762809", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-106": {nombre: "MIJAEL CARDENAS DOMINGUEZ", ci: "8169683", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D2-131": {nombre: "ADEMAR VIERA CESPEDES", ci: "9817274", Asociación: "SEGUNDA RECOMPENSA", estado: "Afiliado válido"},
 
 
 
