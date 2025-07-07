@@ -47,7 +47,7 @@ const productores = {
 "BV-D6-046": {nombre: "CESILIO ROMERO VILA", ci: "6335510", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
 "BV-D6-047": {nombre: "BISMAR  HIRAÑA  PASTOR", ci: "5395923", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
 "BV-D6-048": {nombre: "SERAPIO SULLCA ", ci: "", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
-"BV-D6-049": {nombre: "PEDRO  CONDORI ", ci: "", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
+"BV-D6-049": {nombre: "PEDRO  CONDORI QUENTA", ci: "4647611", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
 "BV-D6-050": {nombre: "WILBER IRAÑA  PASTOR", ci: "", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
 "BV-D6-051": {nombre: "JULIAN OLIVERA ", ci: "", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
 "BV-D6-052": {nombre: "VICTOR OLGUIN TERRAZAS", ci: "4669685", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
