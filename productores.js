@@ -614,6 +614,10 @@ const productores = {
 "BV-D3-082": {nombre: "REINATA RUIZ NINAJA", ci: "3193246", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
 "BV-D3-083": {nombre: "LILIAN ELIZABETH CLAROS QUIÑONES", ci: "9732568", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
 "BV-D3-084": {nombre: "OCTAVIO SERRANO YUCRA", ci: "8924733", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D5-074": {nombre: "MOISES FAJARDO SORIOCO", ci: "8104446", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
+"BV-D5-075": {nombre: "LILIANA GONZALES MAMANI", ci: "8116143", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
+"BV-D5-076": {nombre: "MANUEL MARCELO MELGAR ALBA", ci: "13126010", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
+"BV-D5-077": {nombre: "CARLA LORENA RIBERA CARTAGENA", ci: "11313856", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
 
 
 
