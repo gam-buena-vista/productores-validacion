@@ -618,6 +618,15 @@ const productores = {
 "BV-D5-075": {nombre: "LILIANA GONZALES MAMANI", ci: "8116143", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
 "BV-D5-076": {nombre: "MANUEL MARCELO MELGAR ALBA", ci: "13126010", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
 "BV-D5-077": {nombre: "CARLA LORENA RIBERA CARTAGENA", ci: "11313856", Asociación: "INFIERNILLO", estado: "Afiliado válido"},
+"BV-D6-107": {nombre: "EDY GABRIEL CHAMBI MAMANI", ci: "11404712", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D1-073": {nombre: "HENRRY BOLIVAR BENAVIDES", ci: "12414438", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
+"BV-D6-108": {nombre: "FRANCISCO FUENTES CHOQUE", ci: "1940409", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-109": {nombre: "ELIAS MIRANDA QUISPE", ci: "6235037", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-110": {nombre: "JUVENAL RODRIGUEZ LIENDRO", ci: "13176021", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-111": {nombre: "CAIN CARDENAS DOMINGUEZ", ci: "7762788", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-112": {nombre: "DELIA AMURRIO PAREDEZ DE COCA", ci: "3809407", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-113": {nombre: "PABLO NINA PACCI", ci: "4670562", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D6-114": {nombre: "DIANA PAULA SILES ROJAS", ci: "12665901", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
 
 
 
