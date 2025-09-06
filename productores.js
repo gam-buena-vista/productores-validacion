@@ -627,6 +627,24 @@ const productores = {
 "BV-D6-112": {nombre: "DELIA AMURRIO PAREDEZ DE COCA", ci: "3809407", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
 "BV-D6-113": {nombre: "PABLO NINA PACCI", ci: "4670562", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
 "BV-D6-114": {nombre: "DIANA PAULA SILES ROJAS", ci: "12665901", Asociación: "AGUAS BLANCA PARAISO", estado: "Afiliado válido"},
+"BV-D1-074": {nombre: "CECILIO AREVALO LOZA", ci: "3735094", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
+"BV-D2-132": {nombre: "IVER VARGAS SALAZAR", ci: "7809933", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D2-133": {nombre: "PABLO SEGOVIA HERRERA", ci: "3203790", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D2-134": {nombre: "JUAN CARLOS LLAVE FRANCO", ci: "7762782", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D2-135": {nombre: "SULMA RUIZ CHIRI", ci: "7798398", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D2-136": {nombre: "MIGUEL CARREÑO VACA", ci: "4651712", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D2-137": {nombre: "CHERICA RIVERO MONTERO", ci: "7803677", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D1-075": {nombre: "MATILDE VEIZAGA MONTAÑO", ci: "8667981", Asociación: "LAS DELICIAS MADREJONES", estado: "Afiliado válido"},
+"BV-D1-076": {nombre: "NICOLAS TANGO ", ci: "4647449", Asociación: "EL PALMAR", estado: "Afiliado válido"},
+"BV-D1-077": {nombre: "RICARDO CESPEDES JIMENEZ", ci: "8110678", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
+"BV-D2-138": {nombre: "JOSUE GABRIEL MIRANDA VENTURA", ci: "9805315", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D1-078": {nombre: "PATRICIO TOCO ARENA", ci: "5841501", Asociación: "EL PALMAR", estado: "Afiliado válido"},
+"BV-D1-079": {nombre: "GERARDO HUAYHUA CASIA", ci: "3198874", Asociación: "EL PALMAR", estado: "Afiliado válido"},
+"BV-D1-080": {nombre: "SINTHIA CARAVEDO LOPEZ", ci: "8924260", Asociación: "EL PALMAR", estado: "Afiliado válido"},
+"BV-D1-081": {nombre: "JUAN MAMANI PAREDES", ci: "1291153", Asociación: "EL PALMAR", estado: "Afiliado válido"},
+"BV-D1-082": {nombre: "JOSE ANTONIO VILLANUEVA FERNANDEZ", ci: "E-11602001", Asociación: "EL PALMAR", estado: "Afiliado válido"},
+"BV-D6-115": {nombre: "SABINO LORA FERNANDEZ", ci: "7848157", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D5-078": {nombre: "BENITO HERRERA GARCIA", ci: "9054256", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
 
 
 
@@ -635,4 +653,5 @@ const productores = {
 
 
 };
+
 
