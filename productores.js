@@ -645,6 +645,11 @@ const productores = {
 "BV-D1-082": {nombre: "JOSE ANTONIO VILLANUEVA FERNANDEZ", ci: "E-11602001", Asociación: "EL PALMAR", estado: "Afiliado válido"},
 "BV-D6-115": {nombre: "SABINO LORA FERNANDEZ", ci: "7848157", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 "BV-D5-078": {nombre: "BENITO HERRERA GARCIA", ci: "9054256", Asociación: "ARBOLEDA", estado: "Afiliado válido"},
+"BV-D1-083": {nombre: "LUIS FERNANDO ORTIZ ", ci: "13560410", Asociación: "SANTA BARBARA", estado: "Afiliado válido"},
+"BV-D1-084": {nombre: "ADRIAN FLORES SEGOVIA", ci: "3939073", Asociación: "SANTA BARBARA", estado: "Afiliado válido"},
+"BV-D2-139": {nombre: "LAURA JOSEA AREBALO", ci: "9805416", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D3-085": {nombre: "MACARIO VIQUE RODRIGUEZ", ci: "1585132", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D2-140": {nombre: "RUDDY ROQUE VOCAL", ci: "7829371", Asociación: "HUAYTU", estado: "Afiliado válido"},
 
 
 
@@ -653,5 +658,6 @@ const productores = {
 
 
 };
+
 
 
