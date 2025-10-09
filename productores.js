@@ -650,6 +650,10 @@ const productores = {
 "BV-D2-139": {nombre: "LAURA JOSEA AREBALO", ci: "9805416", Asociación: "HUAYTU", estado: "Afiliado válido"},
 "BV-D3-085": {nombre: "MACARIO VIQUE RODRIGUEZ", ci: "1585132", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
 "BV-D2-140": {nombre: "RUDDY ROQUE VOCAL", ci: "7829371", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D5-079": {nombre: "ARIEL PORCO ANDIA", ci: "7999592", Asociación: "EL PALMAR", estado: "Afiliado válido"},
+"BV-D6-116": {nombre: "JOSE ABAD MAMANI AJATA", ci: "9805875", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D1-085": {nombre: "FRANCISCO CERON SERRANO", ci: "3853946", Asociación: "POTRERITO 24 SEP", estado: "Afiliado válido"},
+"BV-D1-086": {nombre: "NICANOR GONZALES MENDOZA", ci: "4620254", Asociación: "POTRERITO 24 SEP", estado: "Afiliado válido"},
 
 
 
@@ -658,6 +662,7 @@ const productores = {
 
 
 };
+
 
 
 
