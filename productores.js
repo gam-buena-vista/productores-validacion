@@ -659,6 +659,7 @@ const productores = {
 "BV-D1-088": {nombre: "MARIELA ALEJANDRA PESSOA MELGAR", ci: "9746169", Asociación: "POTRERITO 24 SEP", estado: "Afiliado válido"},
 "BV-D1-089": {nombre: "ANALIA SALVATIERRA LOPEZ", ci: "14118952", Asociación: "VIRGEN DEL CARMEN", estado: "Afiliado válido"},
 "BV-D1-090": {nombre: "MILENA JUSTINIANO MACHADO", ci: "10817454", Asociación: "VIRGEN DEL CARMEN", estado: "Afiliado válido"},
+"BV-D6-117": {nombre: "AGUSTIN ARAMAYO GARCIA", ci: "4677751", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 
 
 
@@ -667,6 +668,7 @@ const productores = {
 
 
 };
+
 
 
 
