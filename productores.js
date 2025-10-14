@@ -660,6 +660,8 @@ const productores = {
 "BV-D1-089": {nombre: "ANALIA SALVATIERRA LOPEZ", ci: "14118952", Asociación: "VIRGEN DEL CARMEN", estado: "Afiliado válido"},
 "BV-D1-090": {nombre: "MILENA JUSTINIANO MACHADO", ci: "10817454", Asociación: "VIRGEN DEL CARMEN", estado: "Afiliado válido"},
 "BV-D6-117": {nombre: "AGUSTIN ARAMAYO GARCIA", ci: "4677751", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D1-091": {nombre: "MIRIAN GUZMAN MORA", ci: "7803148", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
+"BV-D1-092": {nombre: "BISMAR ORTUÑO AGUILAR", ci: "5367027", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
 
 
 
@@ -668,6 +670,7 @@ const productores = {
 
 
 };
+
 
 
 
