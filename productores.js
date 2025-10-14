@@ -654,6 +654,11 @@ const productores = {
 "BV-D6-116": {nombre: "JOSE ABAD MAMANI AJATA", ci: "9805875", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 "BV-D1-085": {nombre: "FRANCISCO CERON SERRANO", ci: "3853946", Asociación: "POTRERITO 24 SEP", estado: "Afiliado válido"},
 "BV-D1-086": {nombre: "NICANOR GONZALES MENDOZA", ci: "4620254", Asociación: "POTRERITO 24 SEP", estado: "Afiliado válido"},
+"BV-D1-087": {nombre: "SEFERINO ORELLANA OCHOA", ci: "3203105", Asociación: "POTRERITO 24 SEP", estado: "Afiliado válido"},
+"BV-D3-086": {nombre: "CANDIDO CORMA VASQUEZ", ci: "11320910", Asociación: "VILLA AMBORO", estado: "Afiliado válido"},
+"BV-D1-088": {nombre: "MARIELA ALEJANDRA PESSOA MELGAR", ci: "9746169", Asociación: "POTRERITO 24 SEP", estado: "Afiliado válido"},
+"BV-D1-089": {nombre: "ANALIA SALVATIERRA LOPEZ", ci: "14118952", Asociación: "VIRGEN DEL CARMEN", estado: "Afiliado válido"},
+"BV-D1-090": {nombre: "MILENA JUSTINIANO MACHADO", ci: "10817454", Asociación: "VIRGEN DEL CARMEN", estado: "Afiliado válido"},
 
 
 
@@ -662,6 +667,7 @@ const productores = {
 
 
 };
+
 
 
 
