@@ -662,6 +662,22 @@ const productores = {
 "BV-D6-117": {nombre: "AGUSTIN ARAMAYO GARCIA", ci: "4677751", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
 "BV-D1-091": {nombre: "MIRIAN GUZMAN MORA", ci: "7803148", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
 "BV-D1-092": {nombre: "BISMAR ORTUÑO AGUILAR", ci: "5367027", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
+"BV-D1-093": {nombre: "SILENIA JARE MOSUA", ci: "8928723", Asociación: "BUENA VISTA", estado: "Afiliado válido"},
+"BV-D2-141": {nombre: "OCTAVIO RAMIREZ VASQUEZ", ci: "6382141", Asociación: "HUAYTU", estado: "Afiliado válido"},
+"BV-D3-094": {nombre: "JUVENCIO MANOCO VIERA", ci: "2843730", Asociación: "POTRERITO 24 SEP", estado: "Afiliado válido"},
+"BV-D3-095": {nombre: "JACINTA MANCILLA ", ci: "5390541", Asociación: "EL CAIRO", estado: "Afiliado válido"},
+"BV-D6-118": {nombre: "GENOVEVA MILLARES SULLKA", ci: "9757174", Asociación: "SAN JUAN DE SAGUAYO", estado: "Afiliado válido"},
+"BV-D6-119": {nombre: "OCTAVIO RELUZ QUIROZ", ci: "13853099", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D6-120": {nombre: "ELIANA ORTIZ MEDINA", ci: "7810922", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D6-121": {nombre: "PAOLA RELUZ SANIZO", ci: "7955109", Asociación: "CARMEN SURUTU", estado: "Afiliado válido"},
+"BV-D3-087": {nombre: "ROFER FERNANDEZ MAMANI", ci: "13665550", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D3-088": {nombre: "CARLOS MIGUEL CHUNGARA CONDORI", ci: "9764920", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D3-089": {nombre: "JUBAL RUIZ COPA", ci: "7798423", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D3-090": {nombre: "JUSTINIANO CONDORI LUCAS", ci: "2999356", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D3-091": {nombre: "SAMUEL CACERES CACERES", ci: "13368209", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D3-092": {nombre: "MODESTO VIQUE CAHUASIRI", ci: "3238685-1T", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D3-093": {nombre: "FIDEL UYUQUIPA OCAMPO", ci: "9805752", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D3-094": {nombre: "YOVANA HUANCA JIMENEZ", ci: "14353668", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
 
 
 
@@ -670,6 +686,7 @@ const productores = {
 
 
 };
+
 
 
 
