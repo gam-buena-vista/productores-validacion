@@ -2,31 +2,67 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Administrador de Productores</title>
-  <link rel="stylesheet" href="admin.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Búsqueda de Productores</title>
+  <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
-  <div class="admin-container">
-    <h2>Agregar Productor</h2>
-    <form id="formProductor">
-      <label>Código:</label>
-      <input type="text" id="codigo" required>
 
-      <label>Nombre:</label>
-      <input type="text" id="nombre" required>
+  <header>
+    <img src="imagen/logogamnegro.png" alt="Logo del Gobierno Autónomo Municipal de Buena Vista" class="logo">
+  </header>
 
-      <label>CI:</label>
-      <input type="text" id="ci" required>
+  <main class="card">
+    <h2>Búsqueda de Productores</h2>
 
-      <label>Distrito:</label>
-      <input type="text" id="distrito" required>
+    <input type="text" id="busqueda" placeholder="Ingrese nombre, apellido o CI" class="input-text">
+    <button id="btnBuscar" class="btn">Buscar</button>
 
-      <button type="submit">Agregar</button>
-    </form>
+    <div id="resultados" class="resultados"></div>
+  </main>
 
-    <pre id="resultado"></pre>
-  </div>
+  <script src="productores.js"></script>
+  <script>
+    const input = document.getElementById("busqueda");
+    const btn = document.getElementById("btnBuscar");
+    const resultados = document.getElementById("resultados");
 
-  <script src="admin.js"></script>
+    btn.addEventListener("click", () => {
+      const texto = input.value.trim().toLowerCase();
+      resultados.innerHTML = "";
+
+      if (texto === "") {
+        resultados.innerHTML = "<p class='error'>Ingrese un nombre, apellido o CI para buscar.</p>";
+        return;
+      }
+
+      const encontrados = Object.entries(productores).filter(([codigo, p]) => {
+        return (
+          p.nombre.toLowerCase().includes(texto) ||
+          p.ci.toLowerCase().includes(texto)
+        );
+      });
+
+      if (encontrados.length === 0) {
+        resultados.innerHTML = "<p class='error'>No se encontró ningún productor.</p>";
+        return;
+      }
+
+      encontrados.forEach(([codigo, p]) => {
+        resultados.innerHTML += `
+          <div class="resultado-item">
+            <p><strong>Nombre:</strong> ${p.nombre}</p>
+            <p><strong>CI:</strong> ${p.ci}</p>
+            <p><strong>Asociación:</strong> ${p.Asociación}</p>
+            <p><strong>Estado:</strong> ${p.estado}</p>
+            <p><strong>Código:</strong> ${codigo}</p>
+            <a href="index.html?id=${codigo}" class="verificar-link">Verificar credencial 🔍</a>
+          </div>
+          <hr>
+        `;
+      });
+    });
+  </script>
+
 </body>
 </html>
