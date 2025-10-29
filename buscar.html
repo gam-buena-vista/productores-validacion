@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Administrador de Productores</title>
+  <link rel="stylesheet" href="admin.css">
+</head>
+<body>
+  <div class="admin-container">
+    <h2>Agregar Productor</h2>
+    <form id="formProductor">
+      <label>Código:</label>
+      <input type="text" id="codigo" required>
+
+      <label>Nombre:</label>
+      <input type="text" id="nombre" required>
+
+      <label>CI:</label>
+      <input type="text" id="ci" required>
+
+      <label>Distrito:</label>
+      <input type="text" id="distrito" required>
+
+      <button type="submit">Agregar</button>
+    </form>
+
+    <pre id="resultado"></pre>
+  </div>
+
+  <script src="admin.js"></script>
+</body>
+</html>
