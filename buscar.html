@@ -13,9 +13,14 @@
   </header>
 
   <main class="card">
-    <h2>Búsqueda de Productores</h2>
+    <h2>Consulta de Productores</h2>
 
-    <input type="text" id="busqueda" placeholder="Ingrese nombre, apellido o CI" class="input-text">
+    <input 
+      type="text" 
+      id="busqueda" 
+      placeholder="Ingrese nombre, apellido, CI, asociación o estado..." 
+      class="input-text"
+    >
     <button id="btnBuscar" class="btn">Buscar</button>
 
     <div id="resultados" class="resultados"></div>
@@ -27,19 +32,27 @@
     const btn = document.getElementById("btnBuscar");
     const resultados = document.getElementById("resultados");
 
-    btn.addEventListener("click", () => {
+    btn.addEventListener("click", buscarProductor);
+    input.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") buscarProductor();
+    });
+
+    function buscarProductor() {
       const texto = input.value.trim().toLowerCase();
       resultados.innerHTML = "";
 
       if (texto === "") {
-        resultados.innerHTML = "<p class='error'>Ingrese un nombre, apellido o CI para buscar.</p>";
+        resultados.innerHTML = "<p class='error'>Ingrese un dato para buscar.</p>";
         return;
       }
 
+      // Buscar coincidencias en cualquier campo
       const encontrados = Object.entries(productores).filter(([codigo, p]) => {
         return (
           p.nombre.toLowerCase().includes(texto) ||
-          p.ci.toLowerCase().includes(texto)
+          p.ci.toLowerCase().includes(texto) ||
+          p.Asociación.toLowerCase().includes(texto) ||
+          p.estado.toLowerCase().includes(texto)
         );
       });
 
@@ -48,6 +61,8 @@
         return;
       }
 
+      // Mostrar resultados
+      resultados.innerHTML = `<p><strong>${encontrados.length}</strong> resultado(s) encontrado(s):</p><br>`;
       encontrados.forEach(([codigo, p]) => {
         resultados.innerHTML += `
           <div class="resultado-item">
@@ -61,8 +76,9 @@
           <hr>
         `;
       });
-    });
+    }
   </script>
 
 </body>
 </html>
+
