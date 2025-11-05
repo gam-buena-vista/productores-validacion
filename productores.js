@@ -678,6 +678,8 @@ const productores = {
 "BV-D3-092": {nombre: "MODESTO VIQUE CAHUASIRI", ci: "3238685-1T", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
 "BV-D3-093": {nombre: "FIDEL UYUQUIPA OCAMPO", ci: "9805752", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
 "BV-D3-094": {nombre: "YOVANA HUANCA JIMENEZ", ci: "14353668", Asociación: "ESPEJITOS", estado: "Afiliado válido"},
+"BV-D2-142": {nombre: "ANA MARIA SUBIA MELENDRES", ci: "9765004", Asociación: "POZA AZUL", estado: "Afiliado válido"},
+"BV-D2-142": {nombre: "ALCIRA VACA ARAUZ", ci: "9765407", Asociación: "HUAYTU", estado: "Afiliado válido"},
 
 
 
@@ -686,6 +688,7 @@ const productores = {
 
 
 };
+
 
 
 
